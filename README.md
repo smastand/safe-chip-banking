@@ -1,5 +1,5 @@
 # Safe Chip Banking
-Safe Chip Banking is a CLI program that allows a host to bank a poker game.
+A command-line program that allows a host to bank a poker game.
 
 ## Getting Started
 ### Requirements
